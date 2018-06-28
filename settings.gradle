@@ -1,0 +1,1 @@
+include ':app', ':camera-surfaceview-preview', ':camera-textureview-preview', ':camera-glsurfaceview-preview'
